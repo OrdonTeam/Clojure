@@ -1,0 +1,7 @@
+.gradle
+*/build
+*/lib
+build
+autodoc
+.*
+*.iml
